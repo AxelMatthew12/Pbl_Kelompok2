@@ -32,7 +32,7 @@
      
 4. Apa yang dimaksud heterogenous collection?
 
-   -> Heterogeneous collection adalah koleksi objek yang terdiri dari berbagai tipe
+-> Heterogeneous collection adalah koleksi objek yang terdiri dari berbagai tipe
      kelas yang berhubungan (biasanya melalui inheritance atau interface). Dalam Java,
      ketika menggunakan tipe umum (seperti Pegawai) dalam koleksi seperti ArrayList<Pegawai>,
      yang memungkinkan untuk menyimpan objek Dosen, TenagaKependidikan, dan lainnya yang
@@ -42,6 +42,6 @@
   menjadi object bertipe Dosen. Apakah hal ini dapat dilakukan? Lakukan percobaan
   untuk membuktikannya.
 
-   -> Tidak, hal ini tidak dapat dilakukan kecuali objek tersebut memang instance dari Dosen.
+-> Tidak, hal ini tidak dapat dilakukan kecuali objek tersebut memang instance dari Dosen.
     Jika objek sebenarnya adalah Pegawai biasa dan kita mencoba untuk melakukan downcasting ke Dosen,
     maka akan terjadi ClassCastException pada runtime.
