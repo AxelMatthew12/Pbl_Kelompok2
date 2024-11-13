@@ -1,7 +1,7 @@
 # Kelompok 2
 1. Axelo Matthew Terang Barus(2341760001)
 2. Erika Atthacarya Putri Cahyani(2341760158)
-3. Fasya Dita Nasahah(2341760158)
+3. Fasya Dita Nasahah(2341760077)
 4. Gerly Vaeyungfan(2341760195)
 5. Vera Efita Hudi Putri(2341760047)
 
